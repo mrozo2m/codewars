@@ -1,4 +1,6 @@
-class RowSumOddNumbers {
+package tasks;
+
+public class RowSumOddNumbers {
     public static int rowSumOddNumbers(int n) {
         if (n == 1) {
             return 1;

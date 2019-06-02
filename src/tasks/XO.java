@@ -1,3 +1,5 @@
+package tasks;
+
 public class XO {
     public static boolean getXO (String str) {
         int countX =0;

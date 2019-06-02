@@ -1,3 +1,5 @@
+package tasks;
+
 public class CountDig {
     public static int nbDig(int n, int d) {
         int counting = 0;

@@ -1,3 +1,5 @@
+package tasks;
+
 public class Solution {
     public static boolean validatePin(String pin) {
         boolean checkPin = false;

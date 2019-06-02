@@ -1,4 +1,6 @@
-class Kata {
+package tasks;
+
+public class Kata {
     public static String getMiddle(String word) {
         int length = word.length();
         if (length % 2 == 0) {
